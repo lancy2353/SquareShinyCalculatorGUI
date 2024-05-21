@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="squareShinyCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/squareShinyCalculator_jar</output-path>
+    <root id="archive" name="squareShinyCalculator.jar">
+      <element id="module-output" name="squareShinyCalculator" />
+    </root>
+  </artifact>
+</component>
